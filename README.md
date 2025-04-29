@@ -33,5 +33,5 @@
 
 ### 📊 Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AryaanGhosal2024&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arryg5&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
